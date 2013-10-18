@@ -1,1 +1,1 @@
-this is readme file for the averagejoes
+this is readme file for the averagejoes.
